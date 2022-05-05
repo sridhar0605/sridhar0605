@@ -5,6 +5,10 @@ _Autodidact | open-source_
 
 ---
 
+
+![](https://komarev.com/ghpvc/?username=sridhar0605&color=blue)
+
+
 #### I'm a Bioinformatics Scientist working at WashU School of Medicine in St Louis USA
 
 
