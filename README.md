@@ -9,6 +9,7 @@ _Autodidact | open-source_
 
 
 ##### BIO
+
 - 😄 Pronouns: He/Him/His
 - ⚙️ I use daily: `.py`, `.R`, `.cwl`, `.wdl`, `.svg`, `.sh`
 - 🌍 I'm mostly active within the **r-bioinformatics slack**
@@ -19,8 +20,6 @@ _Autodidact | open-source_
 - ☝️ Get invloved in r-bioinformatics slack 
 
 ![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sridhar0605&show_icons=true&theme=radical)
-
-[![Sridhar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sridhar0605)](https://github.com/sridhar0605/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar0605&layout=compact)](https://github.com/sridhar0605/github-readme-stats)
