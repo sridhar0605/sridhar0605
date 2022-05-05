@@ -5,7 +5,7 @@ _Autodidact | open-source_
 
 ---
 
-#### I'm a Bioinformatics Scientist working at WashU School of Medicine at St Louis USA
+#### I'm a Bioinformatics Scientist working at WashU School of Medicine in St Louis USA
 
 
 ##### BIO
@@ -13,11 +13,12 @@ _Autodidact | open-source_
 - 😄 Pronouns: He/Him/His
 - ⚙️ I use daily: `.py`, `.R`, `.cwl`, `.wdl`, `.svg`, `.sh`
 - 🌍 I'm mostly active within the **r-bioinformatics slack**
-- 💻 [Github1](https://github.com/sridnona/cb_sniffer)
+- 💻 [Github_work](https://github.com/sridnona/cb_sniffer)
 - 📰 [Google scholar](https://scholar.google.com/citations?user=QnzlNJ8AAAAJ&hl=en)
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: [twitter.com/sridnona6](https://twitter.com/sridnona6)
-- ☝️ Get invloved in r-bioinformatics slack 
+- ☝️ Get involved in r-bioinformatics slack DM me your e-mail.
+- 💼 [linkedin](https://www.linkedin.com/in/sridhar-n-8b688825/)
 
 ![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sridhar0605&show_icons=true&theme=dracula)
 
