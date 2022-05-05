@@ -19,7 +19,7 @@ _Autodidact | open-source_
 - 📫 Reach me: [twitter.com/sridnona6](https://twitter.com/sridnona6)
 - ☝️ Get invloved in r-bioinformatics slack 
 
-![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sridhar0605&show_icons=true&theme=radical)
+![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sridhar0605&show_icons=true&theme=dracula)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar0605&layout=compact)](https://github.com/sridhar0605/github-readme-stats)
