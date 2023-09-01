@@ -16,7 +16,7 @@ _Autodidact | open-source_
 
 - 😄 Pronouns: He/Him/His
 - ⚙️ I use daily: `.py`, `.R`, `.cwl`, `.wdl`, `.svg`, `.sh`
-- 🌍 I'm mostly active within the **r-bioinformatics slack** where I am a moderator
+- 🌍 I'm mostly active within the **reddit-bioinformatics slack** where I am a moderator
 - 💻 [Github_work](https://github.com/sridnona/cb_sniffer)
 - 📰 [Google scholar](https://scholar.google.com/citations?user=QnzlNJ8AAAAJ&hl=en)
 - 🌱 Learning all about **Open Source**
